@@ -96,7 +96,7 @@ local v7 = CreateObject("ImageLabel", {
     Name = "UserImage",
     Parent = v6,
     BackgroundTransparency = 1,
-    Image = "rbxassetid://83190276951914",
+    Image = "rbxassetid://78580576057645",
     Position = UDim2.new(0, 15, 0, 10),
     Size = UDim2.new(0, 50, 0, 50)
 });
@@ -313,8 +313,8 @@ v5:Destroy();
 -- end);
 local v14 = loadstring(game:HttpGet("https://github.com/dawid-scripts/Fluent/releases/latest/download/main.lua"))();
 local v15 = v14:CreateWindow({
-    Title = "ngoc",
-    SubTitle = "Premium",
+    Title = "ngoc premium",
+    SubTitle = "ngoc full tiếng việt",
     TabWidth = 160,
     Theme = "Dark",
     Acrylic = false,
@@ -323,7 +323,7 @@ local v15 = v14:CreateWindow({
 });
 local v16 = {
     Home = v15:AddTab({
-        Title = "Thông Tin"
+        Title = "thôn tin"
     }),
     Main = v15:AddTab({
         Title = "fram"
