@@ -313,8 +313,8 @@ v5:Destroy();
 -- end);
 local v14 = loadstring(game:HttpGet("https://github.com/dawid-scripts/Fluent/releases/latest/download/main.lua"))();
 local v15 = v14:CreateWindow({
-    Title = "ngoc Hub",
-    SubTitle = "Blox Fruit",
+    Title = "ngoc",
+    SubTitle = "Premium",
     TabWidth = 160,
     Theme = "Dark",
     Acrylic = false,
@@ -326,7 +326,7 @@ local v16 = {
         Title = "Thông Tin"
     }),
     Main = v15:AddTab({
-        Title = "Cày"
+        Title = "fram"
     }),
     Sea = v15:AddTab({
         Title = "Sự Kiện"
@@ -353,10 +353,10 @@ local v16 = {
         Title = "Giả"
     }),
     Fruit = v15:AddTab({
-        Title = "Trái"
+        Title = "fruit"
     }),
     Raid = v15:AddTab({
-        Title = "Tập Kích"
+        Title = "raid fruit raid law"
     }),
     Race = v15:AddTab({
         Title = "Tộc"
