@@ -1,7 +1,7 @@
 -- discord.gg/ngoc_2k7
 
 
-shared.LoaderTitle = "Đăng Ký Kênh ngoc_2k7";
+shared.LoaderTitle = "tên script ngoc premium free key 5 tháng";
 shared.LoaderKeyFrames = {
     [1] = {
         1,
@@ -9328,3 +9328,4 @@ v14:Notify({
     Content = "Tải Xong",
     Duration = 10
 });
+
