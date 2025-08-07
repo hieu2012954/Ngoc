@@ -1,7 +1,7 @@
--- discord.gg/andepzai
+-- discord.gg/ngochihi
 
 
-shared.LoaderTitle = "andepzai top 1 fram nhanh nhất";
+shared.LoaderTitle = "ngoc";
 shared.LoaderKeyFrames = {
     [1] = {
         1,
@@ -105,7 +105,7 @@ local v8 = CreateObject("TextLabel", {
     Name = "UserName",
     Parent = v6,
     BackgroundTransparency = 1,
-    Text = "Youtube: ngoc_2k7",
+    Text = "Youtube: dăng kí youtube ngoc_2k7",
     Position = UDim2.new(0, 75, 0, 10),
     Size = UDim2.new(0, 200, 0, 50),
     Font = Enum.Font.GothamBold,
@@ -313,10 +313,10 @@ v5:Destroy();
 -- end);
 local v14 = loadstring(game:HttpGet("https://github.com/dawid-scripts/Fluent/releases/latest/download/main.lua"))();
 local v15 = v14:CreateWindow({
-    Title = "andepzai premium",
-    SubTitle = "andepzai full tiếng việt",
+    Title = "[premium]",
+    SubTitle = "like ngoc 2k7",
     TabWidth = 160,
-    Theme = "Dark",
+    Theme = "pink",
     Acrylic = false,
     Size = UDim2.fromOffset(500, 320),
     MinimizeKey = Enum.KeyCode.End
@@ -9328,5 +9328,6 @@ v14:Notify({
     Content = "Tải Xong",
     Duration = 10
 });
+
 
 
