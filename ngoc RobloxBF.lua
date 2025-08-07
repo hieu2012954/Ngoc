@@ -1,7 +1,7 @@
 -- discord.gg/ngochihi
 
 
-shared.LoaderTitle = "ngoc";
+shared.LoaderTitle = "[premium]";
 shared.LoaderKeyFrames = {
     [1] = {
         1,
@@ -316,7 +316,7 @@ local v15 = v14:CreateWindow({
     Title = "[premium]",
     SubTitle = "like ngoc 2k7",
     TabWidth = 160,
-    Theme = "pink",
+    Theme = "light",
     Acrylic = false,
     Size = UDim2.fromOffset(500, 320),
     MinimizeKey = Enum.KeyCode.End
@@ -9328,6 +9328,7 @@ v14:Notify({
     Content = "Tải Xong",
     Duration = 10
 });
+
 
 
 
