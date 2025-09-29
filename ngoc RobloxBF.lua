@@ -96,7 +96,7 @@ local v7 = CreateObject("ImageLabel", {
     Name = "UserImage",
     Parent = v6,
     BackgroundTransparency = 1,
-    Image = "rbxassetid://78580576057645",
+    Image = "rbxassetid://137034070846208",
     Position = UDim2.new(0, 15, 0, 10),
     Size = UDim2.new(0, 50, 0, 50)
 });
@@ -313,8 +313,8 @@ v5:Destroy();
 -- end);
 local v14 = loadstring(game:HttpGet("https://github.com/dawid-scripts/Fluent/releases/latest/download/main.lua"))();
 local v15 = v14:CreateWindow({
-    Title = "[premium]",
-    SubTitle = "like ngoc 2k7",
+    Title = "ngoc cute",
+    SubTitle = "[ngoc premium]",
     TabWidth = 160,
     Theme = "light",
     Acrylic = false,
@@ -4687,7 +4687,7 @@ if Sea3 then
         end
         for v728, v729 in pairs(game:GetService("Workspace").Map.MysticIsland:GetDescendants()) do
             if v729:IsA("MeshPart") then
-                if (v729.MeshId == "rbxassetid://78580576057645") then
+                if (v729.MeshId == "rbxassetid://137034070846208") then
                     return v729;
                 end
             end
@@ -9328,6 +9328,7 @@ v14:Notify({
     Content = "Tải Xong",
     Duration = 10
 });
+
 
 
 
